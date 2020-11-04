@@ -18,10 +18,10 @@
     "default": {
         "logbook": {
             "hashes": [
-                "sha256:a5a96792abd8172c80d61b7530e134524f20e2841981038031e602ed5920fef5"
+                "sha256:d45fc4897adb7da6769ddbd23a7f7fef79cf630bc1ae6cbd27f1f944646711aa"
             ],
             "index": "pypi",
-            "version": "==1.4.3"
+            "version": "==1.4.4"
         }
     },
     "develop": {}
